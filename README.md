@@ -7,6 +7,9 @@ Este repositório contém um conjunto de projetos desenvolvidos como parte do bo
 1. **Controle de Biblioteca**  
    Um programa simples em Ruby que solicita o nome do usuário e exibe uma saudação personalizada.
 
+2. **Calculadora**  
+   Um programa em Ruby que realiza operações matemáticas básicas, como soma, subtração, multiplicação e divisão, com base na entrada do usuário.
+
 ## Como executar
 
 Certifique-se de ter o Ruby instalado em sua máquina. Para executar qualquer projeto, navegue até o diretório do arquivo e execute o seguinte comando no terminal:
