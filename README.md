@@ -13,6 +13,9 @@ Este repositório contém um conjunto de projetos desenvolvidos como parte do bo
 3. **Calculo com Potencia em RUby**  
    Um programa em Ruby que solicita 3 números ao usuário, eleva cada número ao quadrado e exibe os resultados em um array.
 
+4. **Consulta de CPF/CNPJ**  
+   Um programa em Ruby que utiliza a biblioteca `cpf_cnpj` para validar CPFs ou CNPJs fornecidos pelo usuário. Permite realizar múltiplas consultas em um loop até que o usuário decida encerrar.
+
 ## Como executar
 
 Certifique-se de ter o Ruby instalado em sua máquina. Para executar qualquer projeto, navegue até o diretório do arquivo e execute o seguinte comando no terminal:
